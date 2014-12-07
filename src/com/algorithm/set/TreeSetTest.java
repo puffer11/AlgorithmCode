@@ -1,4 +1,4 @@
-package com.algorithm.treeSet;
+package com.algorithm.set;
 
 import java.util.Comparator;
 import java.util.SortedSet;
